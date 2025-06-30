@@ -1,0 +1,31 @@
+id,name,set,rarity,colors,quantity
+1,Lightning Bolt,Revised,Common,"Red",4
+2,Counterspell,Revised,Common,"Blue",3
+3,Black Lotus,Alpha,Rare,"",1
+4,Ancestral Recall,Alpha,Rare,"Blue",1
+5,Time Walk,Alpha,Rare,"Blue",1
+6,Mox Ruby,Alpha,Rare,"",1
+7,Mox Sapphire,Alpha,Rare,"",1
+8,Sol Ring,Revised,Uncommon,"",2
+9,Giant Growth,Revised,Common,"Green",4
+10,Dark Ritual,Revised,Common,"Black",4
+11,Swords to Plowshares,Revised,Uncommon,"White",2
+12,Birds of Paradise,Revised,Rare,"Green",1
+13,Llanowar Elves,Revised,Common,"Green",4
+14,Serra Angel,Revised,Uncommon,"White",2
+15,Shivan Dragon,Revised,Rare,"Red",1
+16,Force of Will,Alliances,Rare,"Blue",1
+17,Brainstorm,Ice Age,Common,"Blue",4
+18,Path to Exile,Conflux,Uncommon,"White",3
+19,Tarmogoyf,Future Sight,Rare,"Green",2
+20,Snapcaster Mage,Innistrad,Rare,"Blue",2
+21,Lightning Helix,Ravnica,Uncommon,"Red,White",3
+22,Thoughtseize,Lorwyn,Rare,"Black",2
+23,Cryptic Command,Lorwyn,Rare,"Blue",1
+24,Tundra,Revised,Rare,"",1
+25,Underground Sea,Revised,Rare,"",1
+26,Tropical Island,Revised,Rare,"",1
+27,Volcanic Island,Revised,Rare,"",1
+28,Plateau,Revised,Rare,"",1
+29,Jace the Mind Sculptor,Worldwake,Mythic,"Blue",1
+30,Elspeth Knight-Errant,Shards of Alara,Mythic,"White",1
